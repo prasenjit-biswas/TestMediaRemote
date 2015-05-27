@@ -5,6 +5,7 @@ public class library_pull {
 	public  static String PULL_REQUEST = "pullServer";
 	
 	public static String getRemoteData( tp_requestHandler theHandler,String dataUrlStr, String auth,String uid){
+		String s = "a";
 		return "";
 	}
 }
